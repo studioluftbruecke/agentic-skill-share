@@ -1,0 +1,16 @@
+{
+  "name": "coolify-api",
+  "description": "Reference and scripts for interacting with the Coolify self-hosting platform API to manage applications, databases, services, servers, and deployments.",
+  "triggers": [
+    "coolify api",
+    "deploy with coolify",
+    "manage coolify",
+    "coolify application",
+    "coolify database",
+    "coolify service",
+    "coolify server"
+  ],
+  "requires": {
+    "env": ["COOLIFY_BASE_URL", "COOLIFY_API_TOKEN"]
+  }
+}
